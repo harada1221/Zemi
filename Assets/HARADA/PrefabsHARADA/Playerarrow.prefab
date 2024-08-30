@@ -154,7 +154,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 328815492875870142}
         m_TargetAssemblyTypeName: ArrowController, Assembly-CSharp
-        m_MethodName: OnSelectChara
+        m_MethodName: OnCancel
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -170,7 +170,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 328815492875870142}
         m_TargetAssemblyTypeName: ArrowController, Assembly-CSharp
-        m_MethodName: OnCancel
+        m_MethodName: OnSelectChara
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
